@@ -1,0 +1,26 @@
+{
+  "name": "witch-doctor",
+  "version": "1.0.0",
+  "description": "Firebase Realtime Database rules macros",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaidmann/witch-doctor.git"
+  },
+  "keywords": [
+    "firebase",
+    "rule",
+    "clause",
+    "realtime",
+    "database"
+  ],
+  "author": "awaidmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awaidmann/witch-doctor/issues"
+  },
+  "homepage": "https://github.com/awaidmann/witch-doctor#readme"
+}
